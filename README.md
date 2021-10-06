@@ -6,5 +6,5 @@ Based on a picture of a dog, an algorithm will give an estimate of the breed of 
 * Convolutional neural networks (CNN)
 * Transfer learning
 * OpenCV pre-trained face detector (haarcascades)
-* Pre-trained VGG-16 model
-* Pre-trained ResNet-50 model
+* Pre-trained VGG-16 CNN model
+* Pre-trained ResNet-50 CNN model
